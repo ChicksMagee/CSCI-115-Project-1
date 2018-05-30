@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1521416377 source:c:\users\tesam\desktop\newproject\main.cpp
+	<iostream>
+	<io.h>
+	<time.h>
+	<fstream>
+	<iomanip>
+	"Array.h"
+
+1521417912 c:\users\tesam\desktop\newproject\include\array.h
+	<iostream>
+	<cstdlib>
+
+1521181611 source:c:\users\tesam\desktop\newproject\src\array.cpp
+	<iostream>
+	<cstdlib>
+	"Array.h"
+
+1521416377 source:c:\users\tesam\desktop\project 1\main.cpp
+	<iostream>
+	<io.h>
+	<time.h>
+	<fstream>
+	<iomanip>
+	"Array.h"
+
+1521417912 c:\users\tesam\desktop\project 1\include\array.h
+	<iostream>
+	<cstdlib>
+
+1521181611 source:c:\users\tesam\desktop\project 1\src\array.cpp
+	<iostream>
+	<cstdlib>
+	"Array.h"
+
